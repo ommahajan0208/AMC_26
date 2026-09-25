@@ -1,0 +1,4 @@
+1. ER_Strategy-- exact plan of what we are doing and why we are doing.
+2. all py files contains helper function that we invoke in main.ipynb
+3. Local_Setup_Guide-- refer this for getting started with project through terminal itself, it contain exact steps one should follow.
+4. one should fill the student_resource folder with the actual data given in the competition itself.
